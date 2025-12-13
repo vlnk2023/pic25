@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" style="background-color: transparent; font-family: 'Inter', 'Segoe UI', sans-serif;">
+  <defs>
+    <marker id="flow-arrow" markerWidth="12" markerHeight="12" refX="10" refY="3.5" orient="auto-start-reverse">
+      <path d="M0,0 L0,7 L10,3.5 z" fill="#3498db"/>
+    </marker>
+    <marker id="control-arrow" markerWidth="12" markerHeight="12" refX="10" refY="3.5" orient="auto-start-reverse">
+      <path d="M0,0 L0,7 L10,3.5 z" fill="#e67e22"/>
+    </marker>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4"/>
+      <feOffset dx="3" dy="3" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style type="text/css">
+      <![CDATA[
+        .component   { fill: #ffffff; stroke: #34495e; stroke-width: 2; filter: url(#shadow); }
+        .data-model  { fill: #f0fff0; stroke: #27ae60; stroke-width: 2; stroke-dasharray: 5,5; }
+        .controller  { fill: #fff9f0; stroke: #e67e22; stroke-width: 2; }
+        .title       { font-size: 14px; font-weight: bold; text-anchor: middle; fill: #2c3e50; }
+        .method      { font-size: 11px; font-family: monospace; fill: #34495e; }
+        .flow-line   { stroke: #3498db; stroke-width: 2.5; fill: none; marker-end: url(#flow-arrow); }
+        .control-line{ stroke: #e67e22; stroke-width: 2; fill: none; stroke-dasharray: 8,4; marker-end: url(#control-arrow); }
+        .label       { font-size: 12px; font-weight: bold; fill: #555; text-anchor: middle; }
+
+        /* 直接指定箭头颜色（亮模式） */
+        marker#flow-arrow path    { fill: #3498db; }
+        marker#control-arrow path { fill: #e67e22; }
+      ]]>
+    </style>
+  </defs>
+
+  <!-- Section Titles -->
+  <text x="600" y="30" class="label" font-size="20">Cognitive Trajectory System - Integrated Blueprint</text>
+  <text x="600" y="200" class="label" font-size="16" fill="#3498db">Core Data Processing Pipeline</text>
+  <text x="600" y="500" class="label" font-size="16" fill="#27ae60">Data Model Transformation</text>
+
+  <!-- Main Controller -->
+  <g transform="translate(475,60)">
+    <rect width="250" height="100" rx="10" class="controller"/>
+    <text x="125" y="28" class="title">CognitiveTrajectorySystem</text>
+    <text x="15" y="50" class="method">+ buildIndex() / refreshIncrementally()</text>
+    <text x="15" y="68" class="method">+ processData()</text>
+    <text x="15" y="86" class="method">+ generateVisualization()</text>
+  </g>
+
+  <!-- Pipeline Components -->
+  <g id="DataCollector" transform="translate(50,240)">
+    <rect width="200" height="100" rx="10" class="component"/>
+    <text x="100" y="28" class="title">DataCollector</text>
+    <text x="15" y="52" class="method">+ scanFiles()</text>
+    <text x="15" y="70" class="method">+ extractTags/Links</text>
+  </g>
+
+  <g id="DataProcessor" transform="translate(325,240)">
+    <rect width="200" height="100" rx="10" class="component"/>
+    <text x="100" y="28" class="title">DataProcessor</text>
+    <text x="15" y="52" class="method">+ buildTagGraph()</text>
+    <text x="15" y="70" class="method">+ analyzeTimeSeries()</text>
+  </g>
+
+  <g id="Visualizer" transform="translate(600,240)">
+    <rect width="200" height="100" rx="10" class="component"/>
+    <text x="100" y="28" class="title">Visualizer</text>
+    <text x="15" y="52" class="method">+ calculateNodeLayout()</text>
+    <text x="15" y="70" class="method">+ buildAnimationTimeline()</text>
+  </g>
+
+  <g id="Renderer" transform="translate(875,240)">
+    <rect width="200" height="100" rx="10" class="component"/>
+    <text x="100" y="28" class="title">Renderer</text>
+    <text x="15" y="52" class="method">+ generateSVG()</text>
+    <text x="15" y="70" class="method">+ applyAnimations()</text>
+  </g>
+
+  <!-- Data Models -->
+  <g id="RawVaultData" transform="translate(50,540)">
+    <rect width="200" height="60" rx="10" class="data-model"/>
+    <text x="100" y="38" class="title">RawVaultData</text>
+  </g>
+
+  <g id="GraphModel" transform="translate(325,540)">
+    <rect width="200" height="60" rx="10" class="data-model"/>
+    <text x="100" y="38" class="title">GraphModel</text>
+  </g>
+
+  <g id="SceneModel" transform="translate(600,540)">
+    <rect width="200" height="60" rx="10" class="data-model"/>
+    <text x="100" y="38" class="title">SceneModel</text>
+  </g>
+
+  <g id="SvgDocument" transform="translate(875,540)">
+    <rect width="200" height="60" rx="10" class="data-model"/>
+    <text x="100" y="38" class="title">SvgDocument</text>
+  </g>
+
+  <!-- Pipeline Flow Lines -->
+  <path d="M250,290 L325,290" class="flow-line"/>
+  <path d="M525,290 L600,290" class="flow-line"/>
+  <path d="M800,290 L875,290" class="flow-line"/>
+
+  <!-- Downward Data Model Generation (dashed) -->
+  <path d="M150,340 L150,540" class="flow-line" stroke-dasharray="6,6" stroke-width="2"/>
+  <path d="M425,340 L425,540" class="flow-line" stroke-dasharray="6,6" stroke-width="2"/>
+  <path d="M700,340 L700,540" class="flow-line" stroke-dasharray="6,6" stroke-width="2"/>
+  <path d="M975,340 L975,540" class="flow-line" stroke-dasharray="6,6" stroke-width="2"/>
+
+  <!-- Support Systems -->
+  <g id="VaultIndex" transform="translate(50,700)">
+    <rect width="200" height="80" rx="10" class="controller"/>
+    <text x="100" y="28" class="title">VaultIndex</text>
+    <text x="15" y="50" class="method">+ load() / update()</text>
+    <text x="15" y="68" class="method">+ invalidate()</text>
+  </g>
+
+  <g id="InteractionController" transform="translate(875,700)">
+    <rect width="200" height="80" rx="10" class="controller"/>
+    <text x="100" y="28" class="title">InteractionController</text>
+    <text x="15" y="50" class="method">+ bindEvents()</text>
+    <text x="15" y="68" class="method">+ applyFilters()</text>
+  </g>
+
+  <!-- Control Flow from Main Controller -->
+  <path d="M537.5,160 L537.5,220 L150,220 L150,240" class="control-line"/>
+  <path d="M600,160 L600,240" class="control-line"/>
+  <path d="M662.5,160 L662.5,220 L975,220 L975,240" class="control-line"/>
+
+  <!-- VaultIndex 双向箭头 -->
+  <path d="M150,780 L150,600" class="control-line" marker-start="url(#control-arrow)" marker-end="url(#control-arrow)"/>
+  <text x="190" y="690" class="label" font-size="11">Update Index</text>
+  <text x="190" y="620" class="label" font-size="11">Load from Index</text>
+
+  <!-- Interaction Loop -->
+  <path d="M975,600 L975,700 L700,700 L700,340" class="control-line"/>
+  <text x="838" y="650" class="label" font-size="11">User Interaction Triggers Update</text>
+
+  <!-- Rendered UI Feedback -->
+  <path d="M980,650 L980,600" class="flow-line"/>
+  <text x="1020" y="625" class="label" font-size="11">Rendered UI</text>
+</svg>

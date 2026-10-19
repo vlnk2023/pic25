@@ -1,0 +1,287 @@
+{
+  "version": 1,
+  "files": {
+    "09f0784fc0131aaa00be1224644e757f29863028abed3cd08b5c823d8e25d372": {
+      "path": "diabetes-history/img-01.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-01.jpg",
+      "original": "img-01.jpg",
+      "size": 157458,
+      "width": 1080,
+      "height": 603,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "1e5f63045888e5a2ce0513b3562ea828566d0feb50b257dff0ec73c7ea3a870a": {
+      "path": "diabetes-history/img-02.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-02.jpg",
+      "original": "img-02.jpg",
+      "size": 128759,
+      "width": 487,
+      "height": 792,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "0c9db47d225d7c2196de173b02e7064f06d23eb5857902d33fdd441eaf70a633": {
+      "path": "diabetes-history/img-03.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-03.jpg",
+      "original": "img-03.jpg",
+      "size": 11052,
+      "width": 200,
+      "height": 259,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "695a90b24690b4810200db26d40379c78a52e0fcd5540a53fcf1d83515f37755": {
+      "path": "diabetes-history/img-04.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-04.jpg",
+      "original": "img-04.jpg",
+      "size": 110928,
+      "width": 600,
+      "height": 856,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "e61ea3179dcce03b53d4b3b4646a4645e3b13514d52667eca541553ed01c39d5": {
+      "path": "diabetes-history/img-05.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-05.jpg",
+      "original": "img-05.jpg",
+      "size": 79530,
+      "width": 1080,
+      "height": 1164,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "6badff0b8374e4fcf24db6679397ed8e93dd3900f76a0d1f05bf4e13ccf8c2c5": {
+      "path": "diabetes-history/img-06.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-06.jpg",
+      "original": "img-06.jpg",
+      "size": 122307,
+      "width": 1080,
+      "height": 687,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "83763f204b54140c3bd757debe2686d9ee79a345e32df1bcc491fb7dab1d6764": {
+      "path": "diabetes-history/img-07.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-07.jpg",
+      "original": "img-07.jpg",
+      "size": 410650,
+      "width": 846,
+      "height": 1303,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "160259c44e55abe27eefd5e4ab6a19755175266a75f9d5431ec6258cabba0e17": {
+      "path": "diabetes-history/img-08.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-08.jpg",
+      "original": "img-08.jpg",
+      "size": 83110,
+      "width": 1080,
+      "height": 759,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "f59aaf821639db28e5a03a0cce3e8a6ed869d687c5d0d2df2ed28826c04e47c7": {
+      "path": "diabetes-history/img-09.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-09.jpg",
+      "original": "img-09.jpg",
+      "size": 79515,
+      "width": 683,
+      "height": 970,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "558ab401afdbe25736fb1f56fed32c8ece36c30a051ea98e7ef6c7046ac19421": {
+      "path": "diabetes-history/img-10.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-10.jpg",
+      "original": "img-10.jpg",
+      "size": 86504,
+      "width": 1080,
+      "height": 735,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "3770cfb38df5a2d711f9e0821ad84a8a2ed55d194506dde547b072fb874e7652": {
+      "path": "diabetes-history/img-11.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-11.jpg",
+      "original": "img-11.jpg",
+      "size": 107381,
+      "width": 1080,
+      "height": 1211,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "6d37e011cf51d26e96ab0bd61aaffae3436ea8ee12e5b0cd37ab1faa95de4cb5": {
+      "path": "diabetes-history/img-12.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-12.jpg",
+      "original": "img-12.jpg",
+      "size": 117644,
+      "width": 1080,
+      "height": 759,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "9d9c9fa431b7bcfb36686636b3c03c82b23283144ffda14cd5a7ce5d5f8030da": {
+      "path": "diabetes-history/img-13.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-13.jpg",
+      "original": "img-13.jpg",
+      "size": 91160,
+      "width": 1080,
+      "height": 439,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "0199df4cd3a112a8f0ea38bf0cd3499f2a5d063c3af4a5ad75ba470912fb361d": {
+      "path": "diabetes-history/img-14.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-14.jpg",
+      "original": "img-14.jpg",
+      "size": 102514,
+      "width": 1080,
+      "height": 599,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "de971b6acb5c002bfecc2727fca9b20be6de3873ab5260f2870c7e455612eb23": {
+      "path": "diabetes-history/img-15.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-15.jpg",
+      "original": "img-15.jpg",
+      "size": 123642,
+      "width": 1080,
+      "height": 554,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "d9143b79dd06ebc52af405afaa7198a242e27eb99ae0e06501c030fa67758fbf": {
+      "path": "diabetes-history/img-16.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-16.jpg",
+      "original": "img-16.jpg",
+      "size": 66587,
+      "width": 573,
+      "height": 684,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "0b289de54ccc069cdc8b266aa8460773bf83a7bde1861d31399038817cf1c8bc": {
+      "path": "diabetes-history/img-17.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-17.jpg",
+      "original": "img-17.jpg",
+      "size": 125051,
+      "width": 1080,
+      "height": 803,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "9fc190ff477c50e3de5cc5568a79f84084f5c80fcad6259d3fe87f487da5bb0d": {
+      "path": "diabetes-history/img-18.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-18.jpg",
+      "original": "img-18.jpg",
+      "size": 65494,
+      "width": 1080,
+      "height": 846,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "644d411cf099a45637b6881549b51fdf71264c9028c11abacebc66504665c3df": {
+      "path": "diabetes-history/img-19.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-19.jpg",
+      "original": "img-19.jpg",
+      "size": 84725,
+      "width": 1080,
+      "height": 484,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "7f551d78346f9cb435bc640f2f368935f3a51fbf695c41252fb6a482572150e1": {
+      "path": "diabetes-history/img-20.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-20.jpg",
+      "original": "img-20.jpg",
+      "size": 81380,
+      "width": 1080,
+      "height": 879,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "4495922c588c8d57c72620aa0ee28c50bdb80cdc2d49bff0960180322d59716d": {
+      "path": "diabetes-history/img-21.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-21.jpg",
+      "original": "img-21.jpg",
+      "size": 100383,
+      "width": 1080,
+      "height": 707,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "a6aa03b8a9b5e551e6948c8599b7cab8f4e497bc025e02a1cb684292ac3d8703": {
+      "path": "diabetes-history/img-22.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-22.jpg",
+      "original": "img-22.jpg",
+      "size": 73360,
+      "width": 707,
+      "height": 1031,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "05a02614063cd82058984e14c1af4f22744bbadfda8e045b3ce199dcd12eb685": {
+      "path": "diabetes-history/img-23.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-23.jpg",
+      "original": "img-23.jpg",
+      "size": 59045,
+      "width": 1080,
+      "height": 596,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "d3298749eef7db55a991cd609180eafe87b166a171b96da035e694da2f498251": {
+      "path": "diabetes-history/img-24.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-24.jpg",
+      "original": "img-24.jpg",
+      "size": 175805,
+      "width": 688,
+      "height": 1053,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "83a41a1bb9ce64342cf9c393c2bcc678a68a519f5e9fe83795151bc1986d78df": {
+      "path": "diabetes-history/img-25.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-25.jpg",
+      "original": "img-25.jpg",
+      "size": 71115,
+      "width": 1080,
+      "height": 515,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "ec47fc309fe3038736c14507ccb53691a64620e0459af1bdb08131b4c0c50c37": {
+      "path": "diabetes-history/img-26.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-26.jpg",
+      "original": "img-26.jpg",
+      "size": 70200,
+      "width": 1080,
+      "height": 427,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "0adb52659c7898ae78712ac3b1c226a98d2be84ebbbb34d2f82115a6fc5fdfc3": {
+      "path": "diabetes-history/img-27.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-27.jpg",
+      "original": "img-27.jpg",
+      "size": 93884,
+      "width": 1080,
+      "height": 629,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "a91aff74d3a81be5c989bee96bc10b7131b86a1325288ae393c27380964d11d3": {
+      "path": "diabetes-history/img-28.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-28.jpg",
+      "original": "img-28.jpg",
+      "size": 222831,
+      "width": 1080,
+      "height": 595,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "1c5e6f755562ff9663d52be3493436cb47ed0bf965d7241cc4c5431796c6d266": {
+      "path": "diabetes-history/img-29.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-29.jpg",
+      "original": "img-29.jpg",
+      "size": 97006,
+      "width": 1080,
+      "height": 914,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "6f4e55b98b2a2bff3a93b84a65498c04f74273dd733f04de65e1c66f0e5b8820": {
+      "path": "diabetes-history/img-30.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-30.jpg",
+      "original": "img-30.jpg",
+      "size": 52744,
+      "width": 800,
+      "height": 876,
+      "uploaded_at": "2026-10-19T19:16:15"
+    },
+    "50324a75f39e72b8e0ffd4ba97366e090d515476c96ebe40f41a40550ac8c5b1": {
+      "path": "diabetes-history/img-31.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/vlnk2023/pic25@images/diabetes-history/img-31.jpg",
+      "original": "img-31.jpg",
+      "size": 131664,
+      "width": 1080,
+      "height": 931,
+      "uploaded_at": "2026-10-19T19:16:15"
+    }
+  },
+  "next_index": {
+    "diabetes-history": 32
+  }
+}
